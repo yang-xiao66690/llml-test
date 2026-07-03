@@ -7,7 +7,7 @@ datasets\
 detection/templates1/fulldata_bigClass_Knowledge.pth + fulldata_smallClass_Knowledge.pth\
 llml20251201small_fullData_and_fullKnowledge_MainModel.pth\
 llml20251204big_fullData_MainModel.pth\
-test_using.py\
+test_using.py
 
 test_using.py is the test code\
 The "detection" folder is the file path for the knowledge bases of major categories and minor categories\
