@@ -3,7 +3,7 @@ detection文件夹为大类别和小类别知识库的文件路径\
 上述两项下载即可\
 还需下载"release"中的主模型与数据集\
 文件目录：\
-datasets\
+datasets/...\
 detection/templates1/fulldata_bigClass_Knowledge.pth + fulldata_smallClass_Knowledge.pth\
 llml20251201small_fullData_and_fullKnowledge_MainModel.pth\
 llml20251204big_fullData_MainModel.pth\
